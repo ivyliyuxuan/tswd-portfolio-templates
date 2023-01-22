@@ -6,25 +6,22 @@ Sometimes it's helpful to keep track of your web URL.  Consider putting that som
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is my public portfolio for Telling Stories with Data at CMU!  Here's where my cool work will go. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! I'm Yuxuan Li from MISM global program. I am very interested in data visualization and design, so I chose Telling Stories with Data course. 
+I am very professional in dancing, and it takes me at least 5 hours to practice every day. But I will carefully complete my homework for this class! I hope we can all make an excellent portfolio.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+1. Create better data visualizations supported by narrative
+2. Improve data analysis capability
+3. Duild valuable design skills
+4. Have an opportunity to learn Tableau
+5. Tell the story the data supports
 
 # Portfolio
+Welcome to my portfolio! Can't wait to get started it!
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
